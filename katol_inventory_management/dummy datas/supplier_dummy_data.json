@@ -1,0 +1,82 @@
+[
+  {
+    "model": "katol_inventory_management.supplier",
+    "pk": 1,
+    "fields": {
+      "name": "Baygon Philippines Distributors Inc.",
+      "email": "orders@baygonph-distributors.com",
+      "phone_number": "9123456789",
+      "address": "Pasig City, Metro Manila, Philippines"
+    }
+  },
+  {
+    "model": "katol_inventory_management.supplier",
+    "pk": 2,
+    "fields": {
+      "name": "Mortein Luzon Wholesale Trading",
+      "email": "sales@morteinluzon.com",
+      "phone_number": "9234567890",
+      "address": "Quezon City, Metro Manila, Philippines"
+    }
+  },
+  {
+    "model": "katol_inventory_management.supplier",
+    "pk": 3,
+    "fields": {
+      "name": "Katol King Cebu Supply Co.",
+      "email": "hello@katolkingcebu.ph",
+      "phone_number": "9345678901",
+      "address": "Cebu City, Cebu, Philippines"
+    }
+  },
+  {
+    "model": "katol_inventory_management.supplier",
+    "pk": 4,
+    "fields": {
+      "name": "Mosquito Guard Visayas Distribution",
+      "email": "orders@mosquitoguardvisayas.ph",
+      "phone_number": "9456789012",
+      "address": "Iloilo City, Iloilo, Philippines"
+    }
+  },
+  {
+    "model": "katol_inventory_management.supplier",
+    "pk": 5,
+    "fields": {
+      "name": "Citronella Plus Mindanao Trading",
+      "email": "sales@citronellaplusmindanao.com",
+      "phone_number": "9567890123",
+      "address": "Davao City, Davao del Sur, Philippines"
+    }
+  },
+  {
+    "model": "katol_inventory_management.supplier",
+    "pk": 6,
+    "fields": {
+      "name": "Home Shield Consumer Goods Corp.",
+      "email": "support@homeshieldcg.com",
+      "phone_number": "9678901234",
+      "address": "Makati City, Metro Manila, Philippines"
+    }
+  },
+  {
+    "model": "katol_inventory_management.supplier",
+    "pk": 7,
+    "fields": {
+      "name": "Island Fresh Pest Control Supplies",
+      "email": "info@islandfreshpcs.ph",
+      "phone_number": "9789012345",
+      "address": "Cagayan de Oro City, Misamis Oriental, Philippines"
+    }
+  },
+  {
+    "model": "katol_inventory_management.supplier",
+    "pk": 8,
+    "fields": {
+      "name": "Tropic Safe Retail Partners",
+      "email": "partnerships@tropicsafe.ph",
+      "phone_number": "9890123456",
+      "address": "Taguig City, Metro Manila, Philippines"
+    }
+  }
+]

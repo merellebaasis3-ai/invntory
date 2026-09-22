@@ -1,0 +1,98 @@
+[
+  {
+    "model": "katol_inventory_management.product",
+    "pk": 1,
+    "fields": {
+      "name": "Baygon Jumbo Anti-Dengue",
+      "description": "High-potency green mosquito coil for wide-area evening protection against dengue-carrying mosquitoes.",
+      "category": "outdoor",
+      "price": 35,
+      "stock": 120,
+      "supplier": 1
+    }
+  },
+  {
+    "model": "katol_inventory_management.product",
+    "pk": 2,
+    "fields": {
+      "name": "Mortein PowerGuard Outdoor Coil",
+      "description": "Heavy-duty coil designed for patios, porches, and outdoor family gatherings in humid weather.",
+      "category": "outdoor",
+      "price": 32,
+      "stock": 140,
+      "supplier": 2
+    }
+  },
+  {
+    "model": "katol_inventory_management.product",
+    "pk": 3,
+    "fields": {
+      "name": "Katol King Outdoor Defense",
+      "description": "Reliable long-burning mosquito coil for household resellers and sari-sari store distribution.",
+      "category": "outdoor",
+      "price": 28,
+      "stock": 160,
+      "supplier": 3
+    }
+  },
+  {
+    "model": "katol_inventory_management.product",
+    "pk": 4,
+    "fields": {
+      "name": "Mosquito Guard Low-Smoke Coil",
+      "description": "Low-soot coil with steady burn performance for indoor evening use and small retail packs.",
+      "category": "low_smoke",
+      "price": 22,
+      "stock": 180,
+      "supplier": 4
+    }
+  },
+  {
+    "model": "katol_inventory_management.product",
+    "pk": 5,
+    "fields": {
+      "name": "Citronella Plus Scented Coil",
+      "description": "Citronella-infused mosquito coil aimed at retailers serving families and budget-conscious buyers.",
+      "category": "scented",
+      "price": 26,
+      "stock": 150,
+      "supplier": 5
+    }
+  },
+  {
+    "model": "katol_inventory_management.product",
+    "pk": 6,
+    "fields": {
+      "name": "Home Shield Premium Eco Coil",
+      "description": "Plant-based premium coil positioned for organic stores and neighborhood groceries.",
+      "category": "premium",
+      "price": 45,
+      "stock": 90,
+      "supplier": 6
+    }
+  },
+  {
+    "model": "katol_inventory_management.product",
+    "pk": 7,
+    "fields": {
+      "name": "Island Fresh Value Pack Coil",
+      "description": "Affordable mosquito coil pack for wholesalers, wet markets, and restock bundles.",
+      "category": "value_pack",
+      "price": 20,
+      "stock": 200,
+      "supplier": 7
+    }
+  },
+  {
+    "model": "katol_inventory_management.product",
+    "pk": 8,
+    "fields": {
+      "name": "Tropic Safe Lavender Coil",
+      "description": "Light floral-scented mosquito coil for indoor retail shelves and convenience stores.",
+      "category": "scented",
+      "price": 29,
+      "stock": 130,
+      "supplier": 8
+    }
+  }
+]
